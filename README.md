@@ -1,5 +1,7 @@
 Ceci est un test
 ========================
+Test par Thierry directement à partir du site Git.
+
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new app. If you want
