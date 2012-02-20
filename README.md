@@ -1,5 +1,7 @@
 Salut, je fais un autre test à partir de Windows cette fois !
 
+Aller, un dernier pour la route... :-)
+
 Ceci est un test
 ========================
 Test par Thierry directement à partir du site Git.
